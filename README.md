@@ -1,7 +1,7 @@
 # ⚡ Humayun Ejaz
 `Software Engineer`
 
-👨🏽 Hello! My name is Humayun, and I’m a software engineer based in Toronto, Canada. I specialize in architecting high-impact web and mobile applications, blending robust backend engineering with standout frontend experiences. My work ranges from building scalable infrastructures and payment systems for Australian startups, to creating visually immersive UIs that drive user engagement and satisfaction. Driven by a passion for clean code and seamless design, I thrive on delivering technology that both performs and delights.
+👨🏽 Hello! My name is Humayun, and I’m a software engineer based in Toronto, Canada. I specialize in architecting high-impact web and mobile applications, blending robust backend engineering with standout frontend experiences. My work ranges from building scalable infrastructures and payment systems for startups, to creating visually immersive UIs that drive user engagement and satisfaction. Driven by a passion for clean code and seamless design, I thrive on delivering technology that both performs and delights.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humayun-ejaz/)
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.humayunejaz.com/)
